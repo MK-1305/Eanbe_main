@@ -1,0 +1,116 @@
+{% if section.settings.checkbox %}
+  <p class="input_basic">{{ section.settings.text }}</p>
+  <p class="input_basic">{{ section.settings.textarea }}</p>
+{% endif %}
+
+<style>
+  .input_basic {
+    text-align: {{ section.settings.select }};
+    padding-top: {{ section.settings.number }}px;
+    padding-bottom: {{ section.settings.range }}px;
+  }
+</style>
+
+{% schema %}
+
+  {
+    "name": "Schema学習中",
+    "tag": "section",
+    "class": "schema",
+    "settings": [
+      {
+        "type": "header",
+        "content": "見出しです！",
+        "info": "インフォメーションです！"
+      },
+      {
+        "type": "paragraph",
+        "content": "パラグラフです！"
+      },
+      {
+        "type": "checkbox",
+        "id": "checkbox",
+        "label": "チェックボックスです！",
+        "default": true,
+        "info": "checkboxの説明です！"
+      },
+      {
+        "type": "radio",
+        "id": "radio",
+        "label": "Radioボタン",
+        "options": [
+          {
+            "value": "left",
+            "label": "左"
+          }, {
+            "value": "center",
+            "label": "中央"
+          }, {
+            "value": "right",
+            "label": "右"
+          }
+        ],
+        "default": "left",
+        "info": "Radioボタンだよ！"
+      }, {
+        "type": "select",
+        "id": "select",
+        "label": "セレクト",
+        "options": [
+          {
+            "value": "left",
+            "label": "左"
+          }, {
+            "value": "center",
+            "label": "中央"
+          }, {
+            "value": "right",
+            "label": "右"
+          }
+        ],
+        "default": "left",
+        "info": "セレクトだよ！"
+      }, {
+        "type": "header",
+        "content": "数値設定"
+      }, {
+        "type": "number",
+        "id": "number",
+        "label": "数字",
+        "default": 10,
+        "info": "数字だよ！"
+      }, {
+        "type": "range",
+        "id": "range",
+        "min": 10,
+        "max": 100,
+        "step": 10,
+        "unit": "px",
+        "label": "Range",
+        "default": 10,
+        "info": "Rangeだよ！"
+      }, {
+        "type": "header",
+        "content": "テキスト関連"
+      }, {
+        "type": "text",
+        "id": "text",
+        "label": "テキスト",
+        "default": "テキストだよ！",
+        "info": "テキストを入力してください"
+      }, {
+        "type": "textarea",
+        "id": "textarea",
+        "label": "テキストエリア",
+        "default": "テキストエリアだよ！",
+        "info": "テキストエリアを入力してください"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Schema学習中"
+      }
+    ]
+  }
+
+{% endschema %}

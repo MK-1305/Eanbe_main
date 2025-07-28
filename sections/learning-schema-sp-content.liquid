@@ -1,0 +1,201 @@
+<p>Schema学習中 SP</p>
+
+{% comment %} ブログ記事の投稿 {% endcomment %}
+
+{% if section.settings.article != blank %}
+    {% assign article = articles[section.settings.article] %}
+    <h3>{{ article.title }}</h3>
+    <h3>{{ article.content }}</h3>
+    <a href="{{ article.url }}">続きを読む</a>
+{% else %}
+    <p>ブログ記事が選択されていません</p>
+{% endif %}
+
+{% comment %} 記事（ブログ） {% endcomment %}
+{% if section.settings.blog != blank %}
+    <h2>ブログ</h2>
+    {% assign blog = blogs[section.settings.blog] %}
+    <h3>{{ blog.title }}</h3>
+    <ul>
+        {% for article in blog.articles limit: 3 %}
+            <li>
+                <a href="{{ article.url }}">{{ article.title }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+    <a href="{{ blog.url }}">ブログ一覧を見る</a>
+{% else %}
+    <p>ブログを選択してください</p>
+{% endif %}
+
+    {% comment %} コレクション {% endcomment %}
+     {% if section.settings.collection != blank %}
+        <p>コレクション</p>
+        {% assign collection = collections[section.settings.collection] %}
+        <h3>{{ collection.title }}</h3>
+        <ul>
+        {% for product in collection.products limit: 3 %}
+            <li>
+                <a href="{{ product.url }}">
+                    {{ product.featured_image | image_url: width: 300 |  image_tag }}
+                    <h4>{{ product.title }}</h4>
+                </a>
+                <p>{{ product.price | money }}</p>
+            </li>
+        {% endfor %}
+        </ul>
+    {% else %}
+            <p>コレクションを選択してください</p>
+     {% endif %}
+
+     {% comment %} コレクションリスト {% endcomment %}
+     {% if section.settings.collection_list != blank %}
+        <h2>コレクションリスト</h2>
+        {% assign collection_list = section.settings.collection_list %}
+
+        <ul>
+            {% for collection in collection_list %}
+            <li>
+                <a href="{{ collection.url }}">
+                    {{ collection.title }}
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+        {% else %}
+            <p>コレクションリストを選択してください</p>
+     {% endif %}
+
+     {% comment %} 商品 {% endcomment %}
+      {% if section.settings.product != blank %}
+        <h2>商品</h2>
+        {% assign product = section.settings.product %}
+        <div>
+            <h3>{{ product.title }}</h3>
+            <p>{{ product.description }}</p>
+            <a href="{{ product.url }}">詳しく見る</a>
+        </div>
+        {% else %}
+            <p>商品を選択してください</p>
+      {% endif %}
+
+      {% comment %} 商品リスト {% endcomment %}
+       {% if section.settings.product_list != blank %}
+        <h2>商品リスト</h2>
+        {% assign product_list = section.settings.product_list %}
+        <div>
+            {% for product in product_list %}
+                <div>
+                    <h3>{{ product.title }}</h3>
+                    {{ product.featured_image | image_url: width: 300 | image_tag }}
+                    <p>{{ product.description }}</p>
+                    <a href="{{ product.url }}">詳しく見る</a>
+                </div>
+            {% endfor %}
+        </div>
+        {% else %}
+            <p>商品リストを選択してください</p>
+       {% endif %}
+
+       {% comment %} ページ {% endcomment %}
+        {% if section.settings.page != blank %}
+            <h2>ページ</h2>
+            {% assign page = section.settings.page %}
+            <h3>{{ page.title }}</h3>
+            <div>
+                {{ page.content }}
+            </div>
+            <a href="{{ page.url }}">詳しく見る</a>
+            {% else %}
+                <p>ページを選択してください</p>
+        {% endif %}
+
+        {% comment %} メニュー {% endcomment %}
+         {% if section.settings.link_list != blank %}
+            <h2>メニュー</h2>
+            <ul>
+                {% for link in linklists[section.settings.link_list].links %}
+                    <li>
+                        <a href="{{ link.url }}">{{ link.title }}</a>
+                    </li>
+                {% endfor %}
+            </ul>
+            {% else %}
+                <p>メニューを選択してください</p>
+         {% endif %}
+
+         {% comment %} リンク {% endcomment %}
+          {% if section.settings.url != blank %}
+            <a href="{{ section.settings.url }}">リンクです！</a>
+            {% else %}
+                <p>URLを入力してください</p>
+          {% endif %}
+{% schema %}
+    {
+        "name": "Schema学習中 SP",
+        "tag": "section",
+        "class": "schema",
+        "settings": [
+            {
+                "type": "article",
+                "id": "article",
+                "label": "ブログ記事",
+                "info": "ブログ記事を選択してください",
+            },
+            {
+                "type": "blog",
+                "id": "blog",
+                "label": "ブログ",
+                "info": "ブログを選んでください",
+            },
+            {
+                "type": "collection",
+                "id": "collection",
+                "label": "コレクション",
+                "info": "コレクションを選んでください",
+            },
+            {
+                "type": "collection_list",
+                "id": "collection_list",
+                "label": "コレクションリスト",
+                "limit": 5,
+                "info": "コレクションリストを選んでください",
+            },
+            {
+                "type": "product",
+                "id": "product",
+                "label": "商品",
+                "info": "商品を選んでください",
+            },
+            {
+                "type": "product_list",
+                "id": "product_list",
+                "label": "商品リスト",
+                "limit": 5,
+                "info": "商品リストを選んでください",
+            },
+            {
+                "type": "page",
+                "id": "page",
+                "label": "ページ",
+                "info": "ページを選んでください",
+            },
+            {
+                "type": "link_list",
+                "id": "link_list",
+                "label": "メニューを選択してください",
+            },
+            {
+                "type": "url",
+                "id": "url",
+                "label": "URL",
+                "info": "URLを入力してください",
+            }
+        ],
+        "presets": [
+            {
+                "name": "Schema学習中 SP",
+            }
+    ]
+    }
+{% endschema %}

@@ -1,0 +1,70 @@
+<<<<<<< HEAD
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+=======
+>>>>>>> 054f8bf (タグ実践)
+{
+  "sections": {
+    "main": {
+      "type": "main-404",
+      "settings": {}
+    },
+    "rich_text_D4Fz3y": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7RPHmn": {
+          "type": "heading",
+          "settings": {
+            "heading": "ブランドについて説明する!!",
+            "heading_size": "h1"
+          }
+        },
+        "text_jhyLwV": {
+          "type": "text",
+          "settings": {
+<<<<<<< HEAD
+            "text": "<p>ブランドに関する情報をお客様と共有します。商品を説明したり、告知をしたり、ストアへのお客様を歓迎したりします。</p>"
+=======
+            "text": "<p>ブランドに関する情報をお客様と共有します。商品を説明したり、告知をしたり、ストアへのお客様を歓迎したりします。<\/p>"
+>>>>>>> 054f8bf (タグ実践)
+          }
+        },
+        "button_hBhyB7": {
+          "type": "button",
+          "settings": {
+            "button_label": "ボタンのラベル",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_7RPHmn",
+        "text_jhyLwV",
+        "button_hBhyB7"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_D4Fz3y"
+  ]
+}

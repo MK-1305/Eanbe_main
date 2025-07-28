@@ -1,0 +1,52 @@
+<p>Schema学習中 SP テキスト</p>
+
+<div class="text-alignment">
+
+{% comment %} インラインリッチテキスト {% endcomment %}
+<p>{{ section.settings.inline_richtext }}</p>
+
+{% comment %} リッチテキスト {% endcomment %}
+<div>{{ section.settings.richtext }}</div>
+
+</div>
+
+<style>
+    .text-alignment {
+        text-align: {{ section.settings.text_alignment }};
+    }
+</style>
+
+{% schema %}
+  {
+    "name": "Schema学習中 SP テキスト",
+    "tag": "section",
+    "class": "schema",
+    "settings": [
+      {
+        "type": "inline_richtext",
+        "id": "inline_richtext",
+        "label": "インラインリッチテキスト",
+        "default": "テキスト！！",
+        "info": "テキストを入力してください"
+      }, {
+        "type": "richtext",
+        "id": "richtext",
+        "label": "リッチテキスト",
+        "default": "<p>リッチテキスト！！</p>",
+        "info": "リッチテキストを入力してください"
+      },
+      {
+        "type": "text_alignment",
+        "id": "text_alignment",
+        "label": "テキスト位置",
+        "default": "left",
+        "info": "テキストの位置を選択してください",
+      }
+    ],
+    "presets": [
+      {
+        "name": "Schema学習中 SP テキスト"
+      }
+    ]
+  }
+{% endschema %}}
