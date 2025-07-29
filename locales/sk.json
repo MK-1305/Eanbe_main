@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin language editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
-=======
->>>>>>> 054f8bf (タグ実践)
 {
   "general": {
     "password_page": {
@@ -19,11 +7,7 @@
       "login_form_password_placeholder": "Vaše heslo",
       "login_form_error": "Nesprávne heslo!",
       "login_form_submit": "Prejsť",
-<<<<<<< HEAD
-      "admin_link_html": "Ste vlastníkom obchodu? <a href=\"/admin\" class=\"link underlined-link\">Prihláste sa tu</a>",
-=======
       "admin_link_html": "Ste vlastníkom obchodu? <a href=\"\/admin\" class=\"link underlined-link\">Prihláste sa tu<\/a>",
->>>>>>> 054f8bf (タグ実践)
       "powered_by_shopify_html": "Tento obchod bude používať technológiu {{ shopify }}"
     },
     "social": {
@@ -92,11 +76,7 @@
     },
     "skip_to_product_info": "Prejsť na informácie o produkte",
     "total_reviews": "celkový počet recenzií",
-<<<<<<< HEAD
-    "star_reviews_info": "Počet hviezdičiek: {{ rating_value }}/{{ rating_max }}",
-=======
     "star_reviews_info": "Počet hviezdičiek: {{ rating_value }}\/{{ rating_max }}",
->>>>>>> 054f8bf (タグ実践)
     "collapsible_content_title": "Obsah s možnosťou zbalenia",
     "complementary_products": "Doplnkové produkty"
   },
@@ -147,11 +127,7 @@
         "minimum_of": "Minimálne {{ quantity }} ks",
         "maximum_of": "Maximálne {{ quantity }} ks",
         "multiples_of": "Prírastky po {{ quantity }}",
-<<<<<<< HEAD
-        "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}</span> ks v košíku",
-=======
         "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}<\/span> ks v košíku",
->>>>>>> 054f8bf (タグ実践)
         "note": "Zobrazenie pravidiel týkajúcich sa množstva",
         "min_of": "Min. {{ quantity }}",
         "max_of": "Max. {{ quantity }}"
@@ -166,13 +142,8 @@
         "view_store_info": "Zobraziť informácie o obchode",
         "check_other_stores": "Skontrolovať dostupnosť v iných obchodoch",
         "pick_up_available": "K dispozícii na vyzdvihnutie",
-<<<<<<< HEAD
-        "pick_up_available_at_html": "K dispozícii na vyzdvihnutie na adrese <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "Aktuálne nedostupné na vyzdvihnutie na adrese <span class=\"color-foreground\">{{ location_name }}</span>",
-=======
         "pick_up_available_at_html": "K dispozícii na vyzdvihnutie na adrese <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "pick_up_unavailable_at_html": "Aktuálne nedostupné na vyzdvihnutie na adrese <span class=\"color-foreground\">{{ location_name }}<\/span>",
->>>>>>> 054f8bf (タグ実践)
         "unavailable": "Nepodarilo sa načítať dostupnosť na vyzdvihnutie",
         "refresh": "Obnoviť"
       },
@@ -187,11 +158,7 @@
         "image_available": "Obrázok {{ index }} je teraz dostupný v zobrazení galérie"
       },
       "view_full_details": "Zobraziť všetky podrobnosti",
-<<<<<<< HEAD
-      "shipping_policy_html": "<a href=\"{{ link }}\">Doprava</a> sa vypočíta pri platbe.",
-=======
       "shipping_policy_html": "<a href=\"{{ link }}\">Doprava<\/a> sa vypočíta pri platbe.",
->>>>>>> 054f8bf (タグ実践)
       "choose_options": "Vybrať možnosti",
       "choose_product_options": "Vyberte možnosti pre: {{ product_name }}",
       "value_unavailable": "{{ option_value }} – nedostupné",
@@ -207,11 +174,7 @@
         "title": "Objemové ceny",
         "note": "Dostupné objemové ceny",
         "minimum": "{{ quantity }}+",
-<<<<<<< HEAD
-        "price_at_each": "{{ price }}/kus",
-=======
         "price_at_each": "{{ price }}\/kus",
->>>>>>> 054f8bf (タグ実践)
         "price_range": "{{ minimum }} – {{ maximum }}"
       },
       "taxes_included": "Vrátane daní.",
@@ -349,19 +312,6 @@
       },
       "login": {
         "title": "Máte konto?",
-<<<<<<< HEAD
-        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Prihláste sa</a> a prejdite pokladňou rýchlejšie."
-      },
-      "estimated_total": "Odhadovaná celková suma",
-      "new_estimated_total": "Nová odhadovaná celková suma",
-      "duties_and_taxes_included_shipping_at_checkout_with_policy_html": "Vrátane ciel a daní. Zľavy a <a href=\"{{ link }}\">doprava</a> sa vypočítajú pri platbe.",
-      "duties_and_taxes_included_shipping_at_checkout_without_policy": "Vrátane ciel a daní. Zľavy a doprava sa vypočítajú pri platbe.",
-      "taxes_included_shipping_at_checkout_with_policy_html": "Vrátane daní. Zľavy a <a href=\"{{ link }}\">doprava</a> sa vypočítajú pri platbe.",
-      "taxes_included_shipping_at_checkout_without_policy": "Vrátane daní. Zľavy a doprava sa vypočítajú pri platbe.",
-      "duties_included_taxes_at_checkout_shipping_at_checkout_with_policy_html": "Vrátane ciel. Dane, zľavy a <a href=\"{{ link }}\">doprava</a> sa vypočítajú pri platbe.",
-      "duties_included_taxes_at_checkout_shipping_at_checkout_without_policy": "Vrátane ciel. Dane, zľavy a doprava sa vypočítajú pri platbe.",
-      "taxes_at_checkout_shipping_at_checkout_with_policy_html": "Dane, zľavy a <a href=\"{{ link }}\">doprava</a> sa vypočítajú pri platbe.",
-=======
         "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Prihláste sa<\/a> a prejdite pokladňou rýchlejšie."
       },
       "estimated_total": "Odhadovaná celková suma",
@@ -373,7 +323,6 @@
       "duties_included_taxes_at_checkout_shipping_at_checkout_with_policy_html": "Vrátane ciel. Dane, zľavy a <a href=\"{{ link }}\">doprava<\/a> sa vypočítajú pri platbe.",
       "duties_included_taxes_at_checkout_shipping_at_checkout_without_policy": "Vrátane ciel. Dane, zľavy a doprava sa vypočítajú pri platbe.",
       "taxes_at_checkout_shipping_at_checkout_with_policy_html": "Dane, zľavy a <a href=\"{{ link }}\">doprava<\/a> sa vypočítajú pri platbe.",
->>>>>>> 054f8bf (タグ実践)
       "taxes_at_checkout_shipping_at_checkout_without_policy": "Dane, zľavy a doprava sa vypočítajú pri platbe."
     },
     "footer": {
@@ -394,11 +343,7 @@
     "collection_template": {
       "title": "Kolekcia",
       "empty": "Nenašli sa žiadne produkty",
-<<<<<<< HEAD
-      "use_fewer_filters_html": "Použite menej filtrov alebo <a class=\"{{ class }}\" href=\"{{ link }}\">všetky odstráňte</a>"
-=======
       "use_fewer_filters_html": "Použite menej filtrov alebo <a class=\"{{ class }}\" href=\"{{ link }}\">všetky odstráňte<\/a>"
->>>>>>> 054f8bf (タグ実践)
     },
     "video": {
       "load_video": "Načítať video: {{ description }}"
@@ -425,11 +370,7 @@
     "quick_order_list": {
       "product_total": "Medzisúčet produktov",
       "view_cart": "Zobraziť košík",
-<<<<<<< HEAD
-      "each": "{{ money }}/kus",
-=======
       "each": "{{ money }}\/kus",
->>>>>>> 054f8bf (タグ実践)
       "product": "Produkt",
       "variant": "Variant",
       "variant_total": "Celková suma variantov",
@@ -457,15 +398,6 @@
     }
   },
   "localization": {
-<<<<<<< HEAD
-    "country_label": "Krajina/oblasť",
-    "language_label": "Jazyk",
-    "update_language": "Aktualizovať jazyk",
-    "update_country": "Aktualizovať krajinu/oblasť",
-    "search": "Vyhľadať",
-    "popular_countries_regions": "Obľúbené krajiny/oblasti",
-    "country_results_count": "Našiel sa tento počet krajín/oblastí: {{ count }}"
-=======
     "country_label": "Krajina\/oblasť",
     "language_label": "Jazyk",
     "update_language": "Aktualizovať jazyk",
@@ -473,7 +405,6 @@
     "search": "Vyhľadať",
     "popular_countries_regions": "Obľúbené krajiny\/oblasti",
     "country_results_count": "Našiel sa tento počet krajín\/oblastí: {{ count }}"
->>>>>>> 054f8bf (タグ実践)
   },
   "customer": {
     "account": {
@@ -504,11 +435,7 @@
       "address1": "Adresa 1",
       "address2": "Adresa 2",
       "city": "Mesto",
-<<<<<<< HEAD
-      "country": "Krajina/oblasť",
-=======
       "country": "Krajina\/oblasť",
->>>>>>> 054f8bf (タグ実践)
       "province": "Provincia",
       "zip": "Poštové smerovacie číslo",
       "phone": "Telefón",

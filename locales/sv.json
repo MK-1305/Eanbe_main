@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin language editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
-=======
->>>>>>> 054f8bf (タグ実践)
 {
   "general": {
     "password_page": {
@@ -19,11 +7,7 @@
       "login_form_password_placeholder": "Ditt lösenord",
       "login_form_error": "Fel lösenord!",
       "login_form_submit": "Ange",
-<<<<<<< HEAD
-      "admin_link_html": "Är du butiksägare? <a href=\"/admin\" class=\"link underlined-link\">Logga in här</a>",
-=======
       "admin_link_html": "Är du butiksägare? <a href=\"\/admin\" class=\"link underlined-link\">Logga in här<\/a>",
->>>>>>> 054f8bf (タグ実践)
       "powered_by_shopify_html": "Denna butik kommer drivas av {{ shopify }}"
     },
     "social": {
@@ -133,11 +117,7 @@
         "minimum_of": "Minimum på {{ quantity }}",
         "maximum_of": "Maximum på {{ quantity }}",
         "multiples_of": "Ökningar i steg om {{ quantity }}",
-<<<<<<< HEAD
-        "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}</span> i varukorg",
-=======
         "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}<\/span> i varukorg",
->>>>>>> 054f8bf (タグ実践)
         "note": "Visa kvantitetsregler",
         "min_of": "Min. {{ quantity }}",
         "max_of": "Max. {{ quantity }}"
@@ -159,13 +139,8 @@
         "view_store_info": "Visa butiksinformation",
         "check_other_stores": "Kontrollerar tillgänglighet i andra butiker",
         "pick_up_available": "Hämtning tillgänglig",
-<<<<<<< HEAD
-        "pick_up_available_at_html": "Hämtning tillgänglig på <span class=\"color-foreground\">{{ location_name }}</span>",
-        "pick_up_unavailable_at_html": "Det går för närvarande inte att få hämtning på <span class=\"color-foreground\">{{ location_name }}</span>",
-=======
         "pick_up_available_at_html": "Hämtning tillgänglig på <span class=\"color-foreground\">{{ location_name }}<\/span>",
         "pick_up_unavailable_at_html": "Det går för närvarande inte att få hämtning på <span class=\"color-foreground\">{{ location_name }}<\/span>",
->>>>>>> 054f8bf (タグ実践)
         "unavailable": "Det gick inte att ladda hämtningstillgänglighet",
         "refresh": "Uppdatera"
       },
@@ -180,11 +155,7 @@
         "image_available": "Bilden {{ index }} är nu tillgänglig i gallerivisning"
       },
       "view_full_details": "Visa alla uppgifter",
-<<<<<<< HEAD
-      "shipping_policy_html": "<a href=\"{{ link }}\">Frakt</a> beräknas i kassan.",
-=======
       "shipping_policy_html": "<a href=\"{{ link }}\">Frakt<\/a> beräknas i kassan.",
->>>>>>> 054f8bf (タグ実践)
       "choose_options": "Välj alternativ",
       "choose_product_options": "Välj alternativ för {{ product_name }}",
       "value_unavailable": "{{ option_value }} – inte tillgängligt",
@@ -200,11 +171,7 @@
         "title": "Volymprissättning",
         "note": "Volymprissättning är tillgängligt",
         "minimum": "Fler än {{ quantity }}",
-<<<<<<< HEAD
-        "price_at_each": "för {{ price }}/styck",
-=======
         "price_at_each": "för {{ price }}\/styck",
->>>>>>> 054f8bf (タグ実践)
         "price_range": "{{ minimum }}–{{ maximum }}"
       },
       "product_variants": "Produktvarianter",
@@ -325,19 +292,6 @@
       "update": "Uppdatera",
       "login": {
         "title": "Har du ett konto?",
-<<<<<<< HEAD
-        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Logga in</a> för att gå till kassan snabbare."
-      },
-      "estimated_total": "Beräknad totalsumma",
-      "new_estimated_total": "Nytt beräknat totalbelopp",
-      "duties_and_taxes_included_shipping_at_checkout_with_policy_html": "Tullavgifter och skatter ingår. Rabatter och <a href=\"{{ link }}\">fraktkostnad</a> beräknas i kassan.",
-      "duties_and_taxes_included_shipping_at_checkout_without_policy": "Tullavgifter och skatter ingår. Rabatter och fraktkostnad beräknas i kassan.",
-      "taxes_included_shipping_at_checkout_with_policy_html": "Skatter ingår. Rabatter och <a href=\"{{ link }}\">fraktkostnad</a> beräknas i kassan.",
-      "taxes_included_shipping_at_checkout_without_policy": "Skatter ingår. Rabatter och fraktkostnad beräknas i kassan.",
-      "duties_included_taxes_at_checkout_shipping_at_checkout_with_policy_html": "Tullavgifter ingår. Skatter, rabatter och <a href=\"{{ link }}\">fraktkostnad</a> beräknas i kassan.",
-      "duties_included_taxes_at_checkout_shipping_at_checkout_without_policy": "Tullavgifter ingår. Skatter, rabatter och fraktkostnad beräknas i kassan.",
-      "taxes_at_checkout_shipping_at_checkout_with_policy_html": "Skatter, rabatter och <a href=\"{{ link }}\">fraktkostnad</a> beräknas i kassan.",
-=======
         "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Logga in<\/a> för att gå till kassan snabbare."
       },
       "estimated_total": "Beräknad totalsumma",
@@ -349,7 +303,6 @@
       "duties_included_taxes_at_checkout_shipping_at_checkout_with_policy_html": "Tullavgifter ingår. Skatter, rabatter och <a href=\"{{ link }}\">fraktkostnad<\/a> beräknas i kassan.",
       "duties_included_taxes_at_checkout_shipping_at_checkout_without_policy": "Tullavgifter ingår. Skatter, rabatter och fraktkostnad beräknas i kassan.",
       "taxes_at_checkout_shipping_at_checkout_with_policy_html": "Skatter, rabatter och <a href=\"{{ link }}\">fraktkostnad<\/a> beräknas i kassan.",
->>>>>>> 054f8bf (タグ実践)
       "taxes_at_checkout_shipping_at_checkout_without_policy": "Skatter, rabatter och fraktkostnad beräknas i kassan."
     },
     "footer": {
@@ -370,11 +323,7 @@
     "collection_template": {
       "title": "Produktserie",
       "empty": "Inga produkter hittades",
-<<<<<<< HEAD
-      "use_fewer_filters_html": "Använd färre filter eller <a class=\"{{ class }}\" href=\"{{ link }}\">ta bort alla</a>"
-=======
       "use_fewer_filters_html": "Använd färre filter eller <a class=\"{{ class }}\" href=\"{{ link }}\">ta bort alla<\/a>"
->>>>>>> 054f8bf (タグ実践)
     },
     "video": {
       "load_video": "Ladda video: {{ description }}"
@@ -401,11 +350,7 @@
     "quick_order_list": {
       "product_total": "Delsumma för produkt",
       "view_cart": "Visa varukorg",
-<<<<<<< HEAD
-      "each": "{{ money }}/st.",
-=======
       "each": "{{ money }}\/st.",
->>>>>>> 054f8bf (タグ実践)
       "product": "Produkt",
       "variant": "Variant",
       "variant_total": "Totalbelopp för variant",
@@ -429,15 +374,6 @@
     }
   },
   "localization": {
-<<<<<<< HEAD
-    "country_label": "Land/Region",
-    "language_label": "Språk",
-    "update_language": "Uppdatera språk",
-    "update_country": "Uppdatera land/region",
-    "search": "Sök",
-    "popular_countries_regions": "Populära länder/regioner",
-    "country_results_count": "{{ count }} länder/regioner hittades"
-=======
     "country_label": "Land\/Region",
     "language_label": "Språk",
     "update_language": "Uppdatera språk",
@@ -445,7 +381,6 @@
     "search": "Sök",
     "popular_countries_regions": "Populära länder\/regioner",
     "country_results_count": "{{ count }} länder\/regioner hittades"
->>>>>>> 054f8bf (タグ実践)
   },
   "customer": {
     "account": {
@@ -474,11 +409,7 @@
       "address1": "Adress 1",
       "address2": "Adress 2",
       "city": "Stad",
-<<<<<<< HEAD
-      "country": "Land/Region",
-=======
       "country": "Land\/Region",
->>>>>>> 054f8bf (タグ実践)
       "province": "Provins",
       "zip": "Postnummer",
       "phone": "Telefon",

@@ -14,6 +14,10 @@
         href="{{ settings.favicon | image_url: width: 32, height: 32 }}">
     {%- endif -%}
 
+    {% if handle contains 'ambition' %}
+      <meta name="robot" content="noindex">
+    {% endif %}
+
     {%- unless settings.type_header_font.system? and settings.type_body_font.system? and settings.type_custom_font.system? -%}
       <link
         rel="preconnect"
@@ -434,6 +438,9 @@ body {
         recipientFormCollapsed: `{{ 'recipient.form.collapsed' | t }}`,
         countrySelectorSearchCount: `{{ 'localization.country_results_count' | t: count: '[count]' }}`,
       };
+
+
+      console.log("{{template}}");
     </script>
 
     {%- if settings.predictive_search_enabled -%}

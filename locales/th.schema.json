@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin language editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
-=======
->>>>>>> 054f8bf (タグ実践)
 {
   "settings_schema": {
     "colors": {
@@ -44,11 +32,7 @@
       "settings": {
         "type_header_font": {
           "label": "แบบอักษร",
-<<<<<<< HEAD
-          "info": "การเลือกแบบอักษรอื่นอาจส่งผลต่อความเร็วของร้านค้าได้ [ดูข้อมูลเพิ่มเติมเกี่ยวกับแบบอักษรของระบบ](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
-=======
           "info": "การเลือกแบบอักษรอื่นอาจส่งผลต่อความเร็วของร้านค้าได้ [ดูข้อมูลเพิ่มเติมเกี่ยวกับแบบอักษรของระบบ](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
->>>>>>> 054f8bf (タグ実践)
         },
         "header__1": {
           "content": "หัวเรื่อง"
@@ -58,11 +42,7 @@
         },
         "type_body_font": {
           "label": "แบบอักษร",
-<<<<<<< HEAD
-          "info": "การเลือกแบบอักษรอื่นอาจส่งผลต่อความเร็วของร้านค้าได้ [ดูข้อมูลเพิ่มเติมเกี่ยวกับแบบอักษรของระบบ](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
-=======
           "info": "การเลือกแบบอักษรอื่นอาจส่งผลต่อความเร็วของร้านค้าได้ [ดูข้อมูลเพิ่มเติมเกี่ยวกับแบบอักษรของระบบ](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
->>>>>>> 054f8bf (タグ実践)
         },
         "heading_scale": {
           "label": "ขนาดแบบอักษร"
@@ -76,42 +56,6 @@
       "name": "โซเชียลมีเดีย",
       "settings": {
         "social_twitter_link": {
-<<<<<<< HEAD
-          "label": "X/Twitter",
-          "info": "https://x.com/shopify"
-        },
-        "social_facebook_link": {
-          "label": "Facebook",
-          "info": "https://facebook.com/shopify"
-        },
-        "social_pinterest_link": {
-          "label": "Pinterest",
-          "info": "https://pinterest.com/shopify"
-        },
-        "social_instagram_link": {
-          "label": "Instagram",
-          "info": "http://instagram.com/shopify"
-        },
-        "social_tiktok_link": {
-          "label": "TikTok",
-          "info": "https://tiktok.com/@shopify"
-        },
-        "social_tumblr_link": {
-          "label": "Tumblr",
-          "info": "http://shopify.tumblr.com"
-        },
-        "social_snapchat_link": {
-          "label": "Snapchat",
-          "info": "https://www.snapchat.com/add/shopify"
-        },
-        "social_youtube_link": {
-          "label": "YouTube",
-          "info": "https://www.youtube.com/shopify"
-        },
-        "social_vimeo_link": {
-          "label": "Vimeo",
-          "info": "https://vimeo.com/shopify"
-=======
           "label": "X\/Twitter",
           "info": "https:\/\/x.com\/shopify"
         },
@@ -146,7 +90,6 @@
         "social_vimeo_link": {
           "label": "Vimeo",
           "info": "https:\/\/vimeo.com\/shopify"
->>>>>>> 054f8bf (タグ実践)
         },
         "header": {
           "content": "บัญชีผู้ใช้โซเชียลมีเดีย"
@@ -293,11 +236,7 @@
     },
     "variant_pills": {
       "name": "ตัวเลือกสินค้าทรงเม็ดยา",
-<<<<<<< HEAD
-      "paragraph": "แคปซูลตัวเลือกสินค้าเป็นวิธีหนึ่งในการแสดงตัวเลือกสินค้าของคุณ [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/en/manual/online-store/themes/theme-structure/page-types#variant-picker-block)"
-=======
       "paragraph": "แคปซูลตัวเลือกสินค้าเป็นวิธีหนึ่งในการแสดงตัวเลือกสินค้าของคุณ [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/page-types#variant-picker-block)"
->>>>>>> 054f8bf (タグ実践)
     },
     "inputs": {
       "name": "อินพุต"
@@ -545,11 +484,7 @@
         },
         "header__1": {
           "content": "ไอคอนโซเชียลมีเดีย",
-<<<<<<< HEAD
-          "info": "หากต้องการแสดงบัญชีผู้ใช้โซเชียลมีเดียของคุณ ให้ลิงก์บัญชีไว้ใน[การตั้งค่าธีม](/editor?context=theme&category=social%20media)"
-=======
           "info": "หากต้องการแสดงบัญชีผู้ใช้โซเชียลมีเดียของคุณ ให้ลิงก์บัญชีไว้ใน[การตั้งค่าธีม](\/editor?context=theme&category=social%20media)"
->>>>>>> 054f8bf (タグ実践)
         },
         "header__2": {
           "content": "ประกาศ"
@@ -558,17 +493,6 @@
           "label": "แสดงไอคอนบนเดสก์ท็อป"
         },
         "header__3": {
-<<<<<<< HEAD
-          "content": "ตัวเลือกประเทศ/ภูมิภาค",
-          "info": "หากต้องการเพิ่มประเทศ/ภูมิภาค ให้ไปที่ [การตั้งค่าตลาด](/admin/settings/markets)"
-        },
-        "enable_country_selector": {
-          "label": "เปิดใช้ตัวเลือกประเทศ/ภูมิภาค"
-        },
-        "header__4": {
-          "content": "ตัวเลือกภาษา",
-          "info": "หากต้องการเพิ่มภาษา ให้ไปที่ [การตั้งค่าภาษา](/admin/settings/languages)"
-=======
           "content": "ตัวเลือกประเทศ\/ภูมิภาค",
           "info": "หากต้องการเพิ่มประเทศ\/ภูมิภาค ให้ไปที่ [การตั้งค่าตลาด](\/admin\/settings\/markets)"
         },
@@ -578,7 +502,6 @@
         "header__4": {
           "content": "ตัวเลือกภาษา",
           "info": "หากต้องการเพิ่มภาษา ให้ไปที่ [การตั้งค่าภาษา](\/admin\/settings\/languages)"
->>>>>>> 054f8bf (タグ実践)
         },
         "enable_language_selector": {
           "label": "เปิดใช้ตัวเลือกภาษา"
@@ -667,11 +590,7 @@
             },
             "description": {
               "label": "ข้อความแสดงแทนวิดีโอ",
-<<<<<<< HEAD
-              "info": "อธิบายวิดีโอให้กับลูกค้าที่ใช้ตัวอ่านออกเสียงหน้าจอ [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#video-block)",
-=======
               "info": "อธิบายวิดีโอให้กับลูกค้าที่ใช้ตัวอ่านออกเสียงหน้าจอ [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/theme-features#video-block)",
->>>>>>> 054f8bf (タグ実践)
               "default": "อธิบายวิดีโอ"
             }
           },
@@ -700,11 +619,7 @@
           "options__3": {
             "label": "สี่เหลี่ยมจัตุรัส"
           },
-<<<<<<< HEAD
-          "info": "เพิ่มรูปภาพโดยการแก้ไขคอลเลกชันของคุณ [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/products/collections)"
-=======
           "info": "เพิ่มรูปภาพโดยการแก้ไขคอลเลกชันของคุณ [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/products\/collections)"
->>>>>>> 054f8bf (タグ実践)
         },
         "swipe_on_mobile": {
           "label": "เปิดใช้งานการรูดบนมือถือ"
@@ -759,11 +674,7 @@
       "settings": {
         "custom_liquid": {
           "label": "โค้ด Liquid",
-<<<<<<< HEAD
-          "info": "เพิ่มส่วนย่อยของแอปหรือโค้ดอื่นๆ เพื่อสร้างการปรับแต่งขั้นสูง [ดูข้อมูลเพิ่มเติม](https://shopify.dev/docs/api/liquid)"
-=======
           "info": "เพิ่มส่วนย่อยของแอปหรือโค้ดอื่นๆ เพื่อสร้างการปรับแต่งขั้นสูง [ดูข้อมูลเพิ่มเติม](https:\/\/shopify.dev\/docs\/api\/liquid)"
->>>>>>> 054f8bf (タグ実践)
         }
       },
       "presets": {
@@ -788,11 +699,7 @@
         },
         "show_image": {
           "label": "แสดงรูปภาพที่แสดง",
-<<<<<<< HEAD
-          "info": "ใช้รูปภาพที่มีอัตราส่วนภาพ 3:2 เพื่อผลลัพธ์ที่ดีที่สุด [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
-=======
           "info": "ใช้รูปภาพที่มีอัตราส่วนภาพ 3:2 เพื่อผลลัพธ์ที่ดีที่สุด [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
->>>>>>> 054f8bf (タグ実践)
         },
         "show_date": {
           "label": "แสดงวันที่"
@@ -847,11 +754,7 @@
         },
         "show_rating": {
           "label": "แสดงคะแนนของสินค้า",
-<<<<<<< HEAD
-          "info": "หากต้องการแสดงคะแนน ให้เพิ่มแอปการให้คะแนนสินค้า [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#featured-collection-show-product-rating)"
-=======
           "info": "หากต้องการแสดงคะแนน ให้เพิ่มแอปการให้คะแนนสินค้า [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/theme-features#featured-collection-show-product-rating)"
->>>>>>> 054f8bf (タグ実践)
         },
         "enable_quick_buy": {
           "label": "เปิดใช้งานปุ่มซื้อด่วน",
@@ -940,11 +843,7 @@
             },
             "subtext": {
               "label": "ข้อความรอง",
-<<<<<<< HEAD
-              "default": "<p>แชร์ข้อมูลติดต่อ รายละเอียดร้านค้า และเนื้อหาแบรนด์กับลูกค้าของคุณ</p>"
-=======
               "default": "<p>แชร์ข้อมูลติดต่อ รายละเอียดร้านค้า และเนื้อหาแบรนด์กับลูกค้าของคุณ<\/p>"
->>>>>>> 054f8bf (タグ実践)
             }
           },
           "name": "ข้อความ"
@@ -953,22 +852,14 @@
           "name": "ข้อมูลแบรนด์",
           "settings": {
             "paragraph": {
-<<<<<<< HEAD
-              "content": "บล็อกนี้จะแสดงข้อมูลแบรนด์ของคุณ [แก้ไขข้อมูลแบรนด์](/editor?context=theme&category=brand%20information)"
-=======
               "content": "บล็อกนี้จะแสดงข้อมูลแบรนด์ของคุณ [แก้ไขข้อมูลแบรนด์](\/editor?context=theme&category=brand%20information)"
->>>>>>> 054f8bf (タグ実践)
             },
             "header__1": {
               "content": "ไอคอนโซเชียลมีเดีย"
             },
             "show_social": {
               "label": "แสดงไอคอนโซเชียลมีเดีย",
-<<<<<<< HEAD
-              "info": "หากต้องการแสดงบัญชีผู้ใช้โซเชียลมีเดียของคุณ ให้ลิงก์บัญชีไว้ใน [การตั้งค่าธีม](/editor?context=theme&category=social%20media) ของคุณ"
-=======
               "info": "หากต้องการแสดงบัญชีผู้ใช้โซเชียลมีเดียของคุณ ให้ลิงก์บัญชีไว้ใน [การตั้งค่าธีม](\/editor?context=theme&category=social%20media) ของคุณ"
->>>>>>> 054f8bf (タグ実践)
             }
           }
         }
@@ -982,34 +873,17 @@
           "default": "สมัครรับข้อมูลของเราทางอีเมล"
         },
         "header__1": {
-<<<<<<< HEAD
-          "info": "เพิ่มผู้สมัครรับข้อมูลไปยังรายการลูกค้า “ยอมรับการทำการตลาด” ของคุณโดยอัตโนมัติแล้ว [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/customers/manage-customers)",
-=======
           "info": "เพิ่มผู้สมัครรับข้อมูลไปยังรายการลูกค้า “ยอมรับการทำการตลาด” ของคุณโดยอัตโนมัติแล้ว [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/customers\/manage-customers)",
->>>>>>> 054f8bf (タグ実践)
           "content": "การลงทะเบียนอีเมล"
         },
         "header__2": {
           "content": "ไอคอนโซเชียลมีเดีย",
-<<<<<<< HEAD
-          "info": "หากต้องการแสดงบัญชีผู้ใช้โซเชียลมีเดียของคุณ ให้ลิงก์บัญชีไว้ใน [การตั้งค่าธีม](/editor?context=theme&category=social%20media) ของคุณ"
-=======
           "info": "หากต้องการแสดงบัญชีผู้ใช้โซเชียลมีเดียของคุณ ให้ลิงก์บัญชีไว้ใน [การตั้งค่าธีม](\/editor?context=theme&category=social%20media) ของคุณ"
->>>>>>> 054f8bf (タグ実践)
         },
         "show_social": {
           "label": "แสดงไอคอนโซเชียลมีเดีย"
         },
         "header__3": {
-<<<<<<< HEAD
-          "content": "ตัวเลือกประเทศ/ภูมิภาค"
-        },
-        "header__4": {
-          "info": "หากต้องการเพิ่มประเทศ/ภูมิภาค ให้ไปที่ [การตั้งค่าตลาด](/admin/settings/markets)"
-        },
-        "enable_country_selector": {
-          "label": "เปิดใช้งานตัวเลือกประเทศ/ภูมิภาค"
-=======
           "content": "ตัวเลือกประเทศ\/ภูมิภาค"
         },
         "header__4": {
@@ -1017,17 +891,12 @@
         },
         "enable_country_selector": {
           "label": "เปิดใช้งานตัวเลือกประเทศ\/ภูมิภาค"
->>>>>>> 054f8bf (タグ実践)
         },
         "header__5": {
           "content": "ตัวเลือกภาษา"
         },
         "header__6": {
-<<<<<<< HEAD
-          "info": "หากต้องการเพิ่มภาษา ให้ไปที่ [การตั้งค่าภาษา](/admin/settings/languages)"
-=======
           "info": "หากต้องการเพิ่มภาษา ให้ไปที่ [การตั้งค่าภาษา](\/admin\/settings\/languages)"
->>>>>>> 054f8bf (タグ実践)
         },
         "enable_language_selector": {
           "label": "เปิดใช้งานตัวเลือกภาษา"
@@ -1043,22 +912,14 @@
         },
         "header__8": {
           "content": "ลิงก์นโยบาย",
-<<<<<<< HEAD
-          "info": "หากต้องการเพิ่มนโยบายร้านค้า ให้ไปที่การตั้งค่านโยบาย](/admin/settings/legal)"
-=======
           "info": "หากต้องการเพิ่มนโยบายร้านค้า ให้ไปที่การตั้งค่านโยบาย](\/admin\/settings\/legal)"
->>>>>>> 054f8bf (タグ実践)
         },
         "show_policy": {
           "label": "แสดงลิงก์นโยบาย"
         },
         "header__9": {
           "content": "ติดตามบน Shop",
-<<<<<<< HEAD
-          "info": "คุณต้องเปิดใช้งาน Shop Pay เพื่อให้ลูกค้าสามารถติดตามร้านค้าของคุณในแอป Shop ได้จากหน้าร้าน [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
-=======
           "info": "คุณต้องเปิดใช้งาน Shop Pay เพื่อให้ลูกค้าสามารถติดตามร้านค้าของคุณในแอป Shop ได้จากหน้าร้าน [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
->>>>>>> 054f8bf (タグ実践)
         },
         "enable_follow_on_shop": {
           "label": "เปิดใช้งานการติดตามบน Shop"
@@ -1118,11 +979,7 @@
           }
         },
         "logo_help": {
-<<<<<<< HEAD
-          "content": "แก้ไขโลโก้ของคุณใน [การตั้งค่าธีม ](/editor?context=theme&category=logo)"
-=======
           "content": "แก้ไขโลโก้ของคุณใน [การตั้งค่าธีม ](\/editor?context=theme&category=logo)"
->>>>>>> 054f8bf (タグ実践)
         },
         "sticky_header_type": {
           "label": "ส่วนหัวแบบยึดตำแหน่ง",
@@ -1140,15 +997,6 @@
           }
         },
         "header__3": {
-<<<<<<< HEAD
-          "content": "ตัวเลือกประเทศ/ภูมิภาค"
-        },
-        "header__4": {
-          "info": "หากต้องการเพิ่มประเทศ/ภูมิภาค ให้ไปที่ [การตั้งค่าตลาด](/admin/settings/markets)"
-        },
-        "enable_country_selector": {
-          "label": "เปิดใช้งานตัวเลือกประเทศ/ภูมิภาค"
-=======
           "content": "ตัวเลือกประเทศ\/ภูมิภาค"
         },
         "header__4": {
@@ -1156,17 +1004,12 @@
         },
         "enable_country_selector": {
           "label": "เปิดใช้งานตัวเลือกประเทศ\/ภูมิภาค"
->>>>>>> 054f8bf (タグ実践)
         },
         "header__5": {
           "content": "ตัวเลือกภาษา"
         },
         "header__6": {
-<<<<<<< HEAD
-          "info": "หากต้องการเพิ่มภาษา ให้ไปที่ [การตั้งค่าภาษา](/admin/settings/languages)"
-=======
           "info": "หากต้องการเพิ่มภาษา ให้ไปที่ [การตั้งค่าภาษา](\/admin\/settings\/languages)"
->>>>>>> 054f8bf (タグ実践)
         },
         "enable_language_selector": {
           "label": "เปิดใช้งานตัวเลือกภาษา"
@@ -1179,11 +1022,7 @@
         },
         "header__7": {
           "content": "บัญชีผู้ใช้ของลูกค้าเข้าสู่ระบบ",
-<<<<<<< HEAD
-          "info": "หากต้องการจัดการบัญชีผู้ใช้ของลูกค้า ให้ไปที่การตั้งค่า[บัญชีผู้ใช้ของลูกค้า](/admin/settings/customer_accounts)"
-=======
           "info": "หากต้องการจัดการบัญชีผู้ใช้ของลูกค้า ให้ไปที่การตั้งค่า[บัญชีผู้ใช้ของลูกค้า](\/admin\/settings\/customer_accounts)"
->>>>>>> 054f8bf (タグ実践)
         },
         "enable_customer_avatar": {
           "label": "แสดงอวาตาร์",
@@ -1223,11 +1062,7 @@
           "options__3": {
             "label": "ปานกลาง"
           },
-<<<<<<< HEAD
-          "info": "ใช้รูปภาพที่มีอัตราส่วนภาพ 3:2 เพื่อผลลัพธ์ที่ดีที่สุด [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
-=======
           "info": "ใช้รูปภาพที่มีอัตราส่วนภาพ 3:2 เพื่อผลลัพธ์ที่ดีที่สุด [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
->>>>>>> 054f8bf (タグ実践)
           "options__4": {
             "label": "ใหญ่"
           }
@@ -1457,11 +1292,7 @@
           "settings": {
             "text": {
               "label": "เนื้อหา",
-<<<<<<< HEAD
-              "default": "<p>จับคู่ข้อความกับรูปภาพเพื่อให้ความสำคัญกับสินค้า คอลเลกชัน หรือบล็อกโพสต์ที่คุณเลือก เพิ่มรายละเอียดเกี่ยวกับความพร้อม สไตล์ หรือแม้กระทั่งเขียนรีวิว</p>"
-=======
               "default": "<p>จับคู่ข้อความกับรูปภาพเพื่อให้ความสำคัญกับสินค้า คอลเลกชัน หรือบล็อกโพสต์ที่คุณเลือก เพิ่มรายละเอียดเกี่ยวกับความพร้อม สไตล์ หรือแม้กระทั่งเขียนรีวิว<\/p>"
->>>>>>> 054f8bf (タグ実践)
             },
             "text_style": {
               "label": "รูปแบบข้อความ",
@@ -1542,11 +1373,7 @@
               "options__3": {
                 "label": "ปานกลาง"
               },
-<<<<<<< HEAD
-              "info": "ใช้รูปภาพที่มีอัตราส่วนภาพ 16:9 เพื่อผลลัพธ์ที่ดีที่สุด [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
-=======
               "info": "ใช้รูปภาพที่มีอัตราส่วนภาพ 16:9 เพื่อผลลัพธ์ที่ดีที่สุด [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
->>>>>>> 054f8bf (タグ実践)
               "options__4": {
                 "label": "ใหญ่"
               }
@@ -1572,17 +1399,10 @@
           "name": "แชร์",
           "settings": {
             "featured_image_info": {
-<<<<<<< HEAD
-              "content": "หากคุณใส่ลิงก์ในโพสต์บนโซเชียลมีเดีย รูปภาพที่แสดงของหน้านั้นจะแสดงเป็นรูปภาพตัวอย่าง [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/online-store/images/showing-social-media-thumbnail-images)"
-            },
-            "title_info": {
-              "content": "ชื่อร้านค้าและคำอธิบายจะรวมอยู่ในรูปภาพตัวอย่าง [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
-=======
               "content": "หากคุณใส่ลิงก์ในโพสต์บนโซเชียลมีเดีย รูปภาพที่แสดงของหน้านั้นจะแสดงเป็นรูปภาพตัวอย่าง [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/online-store\/images\/showing-social-media-thumbnail-images)"
             },
             "title_info": {
               "content": "ชื่อร้านค้าและคำอธิบายจะรวมอยู่ในรูปภาพตัวอย่าง [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)"
->>>>>>> 054f8bf (タグ実践)
             },
             "text": {
               "label": "ข้อความ",
@@ -1602,11 +1422,7 @@
           "label": "แสดงรูปภาพที่แสดง"
         },
         "paragraph": {
-<<<<<<< HEAD
-          "content": "เปลี่ยนแปลงเนื้อหาบางส่วนโดยการแก้ไขบล็อกโพสต์ของคุณ [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/online-store/blogs/writing-blogs#display-an-excerpt-from-a-blog-post)"
-=======
           "content": "เปลี่ยนแปลงเนื้อหาบางส่วนโดยการแก้ไขบล็อกโพสต์ของคุณ [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/online-store\/blogs\/writing-blogs#display-an-excerpt-from-a-blog-post)"
->>>>>>> 054f8bf (タグ実践)
         },
         "show_date": {
           "label": "แสดงวันที่"
@@ -1638,11 +1454,7 @@
           "options__4": {
             "label": "ใหญ่"
           },
-<<<<<<< HEAD
-          "info": "ใช้รูปภาพที่มีอัตราส่วนภาพ 3:2 เพื่อผลลัพธ์ที่ดีที่สุด [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
-=======
           "info": "ใช้รูปภาพที่มีอัตราส่วนภาพ 3:2 เพื่อผลลัพธ์ที่ดีที่สุด [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
->>>>>>> 054f8bf (タグ実践)
         }
       }
     },
@@ -1664,22 +1476,14 @@
       "name": "แบนเนอร์คอลเลกชัน",
       "settings": {
         "paragraph": {
-<<<<<<< HEAD
-          "content": "เพิ่มคำอธิบายหรือรูปภาพโดยแก้ไขคอลเลกชันของคุณ [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/products/collections/collection-layout)"
-=======
           "content": "เพิ่มคำอธิบายหรือรูปภาพโดยแก้ไขคอลเลกชันของคุณ [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/products\/collections\/collection-layout)"
->>>>>>> 054f8bf (タグ実践)
         },
         "show_collection_description": {
           "label": "แสดงคำอธิบายคอลเลกชัน"
         },
         "show_collection_image": {
           "label": "แสดงรูปภาพคอลเลกชัน",
-<<<<<<< HEAD
-          "info": "ใช้รูปภาพที่มีอัตราส่วนภาพ 16:9 เพื่อผลลัพธ์ที่ดีที่สุด [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
-=======
           "info": "ใช้รูปภาพที่มีอัตราส่วนภาพ 16:9 เพื่อผลลัพธ์ที่ดีที่สุด [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
->>>>>>> 054f8bf (タグ実践)
         }
       }
     },
@@ -1712,19 +1516,11 @@
         },
         "enable_tags": {
           "label": "เปิดใช้งานการกรอง",
-<<<<<<< HEAD
-          "info": "ปรับแต่งตัวกรองในร้านค้าของคุณด้วยแอป Search & Discovery [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
-        },
-        "enable_filtering": {
-          "label": "เปิดใช้การกรอง",
-          "info": "ปรับแต่งตัวกรองในร้านค้าของคุณด้วยแอป Search & Discovery [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
-=======
           "info": "ปรับแต่งตัวกรองในร้านค้าของคุณด้วยแอป Search & Discovery [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
         },
         "enable_filtering": {
           "label": "เปิดใช้การกรอง",
           "info": "ปรับแต่งตัวกรองในร้านค้าของคุณด้วยแอป Search & Discovery [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
->>>>>>> 054f8bf (タグ実践)
         },
         "enable_sorting": {
           "label": "เปิดใช้การจัดเรียง"
@@ -1734,11 +1530,7 @@
         },
         "show_rating": {
           "label": "แสดงคะแนนของสินค้า",
-<<<<<<< HEAD
-          "info": "หากต้องการแสดงคะแนน ให้เพิ่มแอปการให้คะแนนสินค้า [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-grid-section-settings)"
-=======
           "info": "หากต้องการแสดงคะแนน ให้เพิ่มแอปการให้คะแนนสินค้า [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-grid-section-settings)"
->>>>>>> 054f8bf (タグ実践)
         },
         "columns_desktop": {
           "label": "จำนวนของคอลัมน์บนเดสก์ท็อป"
@@ -1818,11 +1610,7 @@
           "options__3": {
             "label": "สี่เหลี่ยมจัตุรัส"
           },
-<<<<<<< HEAD
-          "info": "เพิ่มรูปภาพโดยการแก้ไขคอลเลกชันของคุณ [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/products/collections)"
-=======
           "info": "เพิ่มรูปภาพโดยการแก้ไขคอลเลกชันของคุณ [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/products\/collections)"
->>>>>>> 054f8bf (タグ実践)
         },
         "columns_desktop": {
           "label": "จำนวนของคอลัมน์บนเดสก์ท็อป"
@@ -1896,11 +1684,7 @@
             },
             "swatch_shape": {
               "label": "ตัวอย่าง",
-<<<<<<< HEAD
-              "info": "เปิดใช้งาน [แผงสี](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) ในตัวเลือกสินค้า",
-=======
               "info": "เปิดใช้งาน [แผงสี](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches) ในตัวเลือกสินค้า",
->>>>>>> 054f8bf (タグ実践)
               "options__1": {
                 "label": "วงกลม"
               },
@@ -1917,19 +1701,11 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "แสดงปุ่มชำระเงินแบบไดนามิก",
-<<<<<<< HEAD
-              "info": "วิธีการชำระเงินที่พร้อมใช้งานบนร้านค้าของคุณ จะช่วยให้ลูกค้าเห็นตัวเลือกที่พวกเขาต้องการ เช่น PayPal หรือ Apple Pay  [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
-            },
-            "show_gift_card_recipient": {
-              "label": "แสดงแบบฟอร์มข้อมูลผู้รับสำหรับบัตรของขวัญ",
-              "info": "อนุญาตให้ผู้ซื้อส่งบัตรของขวัญพร้อมข้อความของตนเองในวันที่กำหนดเวลาไว้ได้ [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/online-store/themes/customizing-themes/add-gift-card-recipient-fields)"
-=======
               "info": "วิธีการชำระเงินที่พร้อมใช้งานบนร้านค้าของคุณ จะช่วยให้ลูกค้าเห็นตัวเลือกที่พวกเขาต้องการ เช่น PayPal หรือ Apple Pay  [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "แสดงแบบฟอร์มข้อมูลผู้รับสำหรับบัตรของขวัญ",
               "info": "อนุญาตให้ผู้ซื้อส่งบัตรของขวัญพร้อมข้อความของตนเองในวันที่กำหนดเวลาไว้ได้ [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/add-gift-card-recipient-fields)"
->>>>>>> 054f8bf (タグ実践)
             }
           },
           "name": "ปุ่มซื้อ"
@@ -1937,17 +1713,10 @@
         "share": {
           "settings": {
             "featured_image_info": {
-<<<<<<< HEAD
-              "content": "หากคุณใส่ลิงก์ในโพสต์บนโซเชียลมีเดีย รูปภาพที่แสดงของหน้านั้นจะแสดงเป็นรูปภาพตัวอย่าง [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/online-store/images/showing-social-media-thumbnail-images)"
-            },
-            "title_info": {
-              "content": "ชื่อร้านและคำอธิบายจะรวมอยู่ในรูปภาพตัวอย่าง [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
-=======
               "content": "หากคุณใส่ลิงก์ในโพสต์บนโซเชียลมีเดีย รูปภาพที่แสดงของหน้านั้นจะแสดงเป็นรูปภาพตัวอย่าง [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/online-store\/images\/showing-social-media-thumbnail-images)"
             },
             "title_info": {
               "content": "ชื่อร้านและคำอธิบายจะรวมอยู่ในรูปภาพตัวอย่าง [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)"
->>>>>>> 054f8bf (タグ実践)
             },
             "text": {
               "label": "ข้อความ",
@@ -2138,11 +1907,7 @@
           "name": "คะแนนของสินค้า",
           "settings": {
             "paragraph": {
-<<<<<<< HEAD
-              "content": "หากต้องการแสดงคะแนน ให้เพิ่มแอปการให้คะแนนสินค้า [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-rating-block)"
-=======
               "content": "หากต้องการแสดงคะแนน ให้เพิ่มแอปการให้คะแนนสินค้า [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-rating-block)"
->>>>>>> 054f8bf (タグ実践)
             }
           }
         },
@@ -2150,11 +1915,7 @@
           "name": "สินค้าเสริม",
           "settings": {
             "paragraph": {
-<<<<<<< HEAD
-              "content": "หากต้องการเลือกสินค้าเสริม ให้เพิ่มแอปค้นหาและการค้นพบ [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
-=======
               "content": "หากต้องการเลือกสินค้าเสริม ให้เพิ่มแอปค้นหาและการค้นพบ [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/product-recommendations)"
->>>>>>> 054f8bf (タグ実践)
             },
             "heading": {
               "label": "หัวเรื่อง",
@@ -2291,11 +2052,7 @@
       "settings": {
         "header": {
           "content": "สื่อ",
-<<<<<<< HEAD
-          "info": "ดูข้อมูลเพิ่มเติมเกี่ยวกับ [ประเภทของสื่อ](https://help.shopify.com/manual/products/product-media)"
-=======
           "info": "ดูข้อมูลเพิ่มเติมเกี่ยวกับ [ประเภทของสื่อ](https:\/\/help.shopify.com\/manual\/products\/product-media)"
->>>>>>> 054f8bf (タグ実践)
         },
         "enable_video_looping": {
           "label": "เปิดใช้งานการวนซ้ำวิดีโอ"
@@ -2419,11 +2176,7 @@
         },
         "show_rating": {
           "label": "แสดงคะแนนของสินค้า",
-<<<<<<< HEAD
-          "info": "หากต้องการแสดงคะแนน ให้เพิ่มแอปการให้คะแนนสินค้า [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#search-results-section-settings)"
-=======
           "info": "หากต้องการแสดงคะแนน ให้เพิ่มแอปการให้คะแนนสินค้า [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#search-results-section-settings)"
->>>>>>> 054f8bf (タグ実践)
         },
         "columns_desktop": {
           "label": "จำนวนของคอลัมน์บนเดสก์ท็อป"
@@ -2532,11 +2285,7 @@
             },
             "text": {
               "label": "คำอธิบาย",
-<<<<<<< HEAD
-              "default": "<p>จับคู่ข้อความกับรูปภาพเพื่อให้ความสำคัญกับสินค้า คอลเลกชัน หรือบล็อกโพสต์ที่คุณเลือก เพิ่มรายละเอียดเกี่ยวกับความพร้อม สไตล์ หรือแม้กระทั่งเขียนรีวิว</p>"
-=======
               "default": "<p>จับคู่ข้อความกับรูปภาพเพื่อให้ความสำคัญกับสินค้า คอลเลกชัน หรือบล็อกโพสต์ที่คุณเลือก เพิ่มรายละเอียดเกี่ยวกับความพร้อม สไตล์ หรือแม้กระทั่งเขียนรีวิว<\/p>"
->>>>>>> 054f8bf (タグ実践)
             },
             "link_label": {
               "label": "ป้ายกำกับลิงก์"
@@ -2559,11 +2308,7 @@
           "label": "ทำส่วนให้เต็มความกว้าง"
         },
         "paragraph": {
-<<<<<<< HEAD
-          "content": "ระบบจะสร้างบัญชีผู้ใช้ของลูกค้าต่อการสมัครรับอีเมลแต่ละครั้ง [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/customers)"
-=======
           "content": "ระบบจะสร้างบัญชีผู้ใช้ของลูกค้าต่อการสมัครรับอีเมลแต่ละครั้ง [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/customers)"
->>>>>>> 054f8bf (タグ実践)
         }
       },
       "blocks": {
@@ -2580,11 +2325,7 @@
           "settings": {
             "paragraph": {
               "label": "คำอธิบาย",
-<<<<<<< HEAD
-              "default": "<p>รับรู้ข่าวสารเกี่ยวกับคอลเลกชันใหม่และข้อเสนอพิเศษก่อนใคร</p>"
-=======
               "default": "<p>รับรู้ข่าวสารเกี่ยวกับคอลเลกชันใหม่และข้อเสนอพิเศษก่อนใคร<\/p>"
->>>>>>> 054f8bf (タグ実践)
             }
           },
           "name": "หัวเรื่องย่อย"
@@ -2654,11 +2395,7 @@
           "settings": {
             "text": {
               "label": "คำอธิบาย",
-<<<<<<< HEAD
-              "default": "<p>แชร์ข้อมูลเกี่ยวกับแบรนด์ของคุณให้ลูกค้าทราบ โดยอธิบายคุณสมบัติของสินค้า แชร์ประกาศ หรือกล่าวต้อนรับลูกค้าสู่ร้านค้าของคุณ</p>"
-=======
               "default": "<p>แชร์ข้อมูลเกี่ยวกับแบรนด์ของคุณให้ลูกค้าทราบ โดยอธิบายคุณสมบัติของสินค้า แชร์ประกาศ หรือกล่าวต้อนรับลูกค้าสู่ร้านค้าของคุณ<\/p>"
->>>>>>> 054f8bf (タグ実践)
             }
           },
           "name": "ข้อความ"
@@ -2751,11 +2488,7 @@
         },
         "description": {
           "label": "ข้อความกำกับวิดีโอ",
-<<<<<<< HEAD
-          "info": "อธิบายวิดีโอให้กับลูกค้าที่ใช้ตัวอ่านออกเสียงหน้าจอ [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#video)"
-=======
           "info": "อธิบายวิดีโอให้กับลูกค้าที่ใช้ตัวอ่านออกเสียงหน้าจอ [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/theme-features#video)"
->>>>>>> 054f8bf (タグ実践)
         },
         "image_padding": {
           "label": "เพิ่มพื้นที่ว่างให้รูปภาพ",
@@ -2834,11 +2567,7 @@
             },
             "swatch_shape": {
               "label": "ตัวอย่าง",
-<<<<<<< HEAD
-              "info": "เปิดใช้งาน [แผงสี](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches) ในตัวเลือกสินค้า",
-=======
               "info": "เปิดใช้งาน [แผงสี](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/theme-settings#options-with-swatches) ในตัวเลือกสินค้า",
->>>>>>> 054f8bf (タグ実践)
               "options__1": {
                 "label": "วงกลม"
               },
@@ -2856,11 +2585,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "แสดงปุ่มชำระเงินแบบไดนามิก",
-<<<<<<< HEAD
-              "info": "วิธีการชำระเงินที่พร้อมใช้งานบนร้านค้าของคุณจะช่วยให้ลูกค้าเห็นตัวเลือกที่พวกเขาต้องการ เช่น PayPal หรือ Apple Pay [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
-=======
               "info": "วิธีการชำระเงินที่พร้อมใช้งานบนร้านค้าของคุณจะช่วยให้ลูกค้าเห็นตัวเลือกที่พวกเขาต้องการ เช่น PayPal หรือ Apple Pay [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
->>>>>>> 054f8bf (タグ実践)
             }
           }
         },
@@ -2871,17 +2596,10 @@
           "name": "แชร์",
           "settings": {
             "featured_image_info": {
-<<<<<<< HEAD
-              "content": "หากคุณใส่ลิงก์ในโพสต์บนโซเชียลมีเดีย รูปภาพที่แสดงของหน้านั้นจะแสดงเป็นรูปภาพตัวอย่าง [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/online-store/images/showing-social-media-thumbnail-images)"
-            },
-            "title_info": {
-              "content": "ชื่อร้านค้าและคำอธิบายจะรวมอยู่ในรูปภาพตัวอย่าง [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
-=======
               "content": "หากคุณใส่ลิงก์ในโพสต์บนโซเชียลมีเดีย รูปภาพที่แสดงของหน้านั้นจะแสดงเป็นรูปภาพตัวอย่าง [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/online-store\/images\/showing-social-media-thumbnail-images)"
             },
             "title_info": {
               "content": "ชื่อร้านค้าและคำอธิบายจะรวมอยู่ในรูปภาพตัวอย่าง [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)"
->>>>>>> 054f8bf (タグ実践)
             },
             "text": {
               "label": "ข้อความ",
@@ -2893,11 +2611,7 @@
           "name": "คะแนนของสินค้า",
           "settings": {
             "paragraph": {
-<<<<<<< HEAD
-              "content": "หากต้องการแสดงคะแนน ให้เพิ่มแอปการให้คะแนนสินค้า [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#featured-product-rating)"
-=======
               "content": "หากต้องการแสดงคะแนน ให้เพิ่มแอปการให้คะแนนสินค้า [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/theme-features#featured-product-rating)"
->>>>>>> 054f8bf (タグ実践)
             }
           }
         },
@@ -2928,11 +2642,7 @@
         },
         "header": {
           "content": "สื่อ",
-<<<<<<< HEAD
-          "info": "ดูข้อมูลเพิ่มเติมเกี่ยวกับ [ประเภทของสื่อ](https://help.shopify.com/manual/products/product-media)"
-=======
           "info": "ดูข้อมูลเพิ่มเติมเกี่ยวกับ [ประเภทของสื่อ](https:\/\/help.shopify.com\/manual\/products\/product-media)"
->>>>>>> 054f8bf (タグ実践)
         },
         "enable_video_looping": {
           "label": "เปิดใช้งานการวนซ้ำวิดีโอ"
@@ -2959,11 +2669,7 @@
       "name": "แบนเนอร์การลงทะเบียนอีเมล",
       "settings": {
         "paragraph": {
-<<<<<<< HEAD
-          "content": "ระบบจะสร้างบัญชีผู้ใช้ของลูกค้าต่อการสมัครรับอีเมลแต่ละครั้ง [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/customers)"
-=======
           "content": "ระบบจะสร้างบัญชีผู้ใช้ของลูกค้าต่อการสมัครรับอีเมลแต่ละครั้ง [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/customers)"
->>>>>>> 054f8bf (タグ実践)
         },
         "image": {
           "label": "รูปภาพพื้นหลัง"
@@ -2979,11 +2685,7 @@
         },
         "show_text_below": {
           "label": "แสดงเนื้อหาที่ด้านล่างของรูปภาพบนมือถือ",
-<<<<<<< HEAD
-          "info": "ใช้รูปภาพที่มีอัตราส่วนภาพ 16:9 เพื่อผลลัพธ์ที่ดีที่สุด [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
-=======
           "info": "ใช้รูปภาพที่มีอัตราส่วนภาพ 16:9 เพื่อผลลัพธ์ที่ดีที่สุด [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
->>>>>>> 054f8bf (タグ実践)
         },
         "image_height": {
           "label": "ความสูงของแบนเนอร์",
@@ -2999,11 +2701,7 @@
           "options__4": {
             "label": "ใหญ่"
           },
-<<<<<<< HEAD
-          "info": "ใช้รูปภาพที่มีอัตราส่วนภาพ 16:9 เพื่อผลลัพธ์ที่ดีที่สุด [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
-=======
           "info": "ใช้รูปภาพที่มีอัตราส่วนภาพ 16:9 เพื่อผลลัพธ์ที่ดีที่สุด [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
->>>>>>> 054f8bf (タグ実践)
         },
         "desktop_content_position": {
           "options__4": {
@@ -3081,11 +2779,7 @@
           "settings": {
             "paragraph": {
               "label": "คำอธิบาย",
-<<<<<<< HEAD
-              "default": "<p>รับรู้ข่าวสารการเปิดตัวของเราก่อนใคร</p>"
-=======
               "default": "<p>รับรู้ข่าวสารการเปิดตัวของเราก่อนใคร<\/p>"
->>>>>>> 054f8bf (タグ実践)
             },
             "text_style": {
               "options__1": {
@@ -3522,11 +3216,7 @@
           "label": "จำนวนคอลัมน์บนเดสก์ท็อป"
         },
         "paragraph__1": {
-<<<<<<< HEAD
-          "content": "คำแนะนำแบบไดนามิกต้องใช้ข้อมูลคำสั่งซื้อและข้อมูลสินค้าในการปรับปรุงและเปลี่ยนแปลงตลอดระยะเวลา [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/themes/development/recommended-products)",
-=======
           "content": "คำแนะนำแบบไดนามิกต้องใช้ข้อมูลคำสั่งซื้อและข้อมูลสินค้าในการปรับปรุงและเปลี่ยนแปลงตลอดระยะเวลา [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/themes\/development\/recommended-products)",
->>>>>>> 054f8bf (タグ実践)
           "default": "สินค้าที่คุณอาจจะชอบ"
         },
         "header__2": {
@@ -3552,11 +3242,7 @@
         },
         "show_rating": {
           "label": "แสดงคะแนนของสินค้า",
-<<<<<<< HEAD
-          "info": "หากต้องการแสดงคะแนน ให้เพิ่มแอปการให้คะแนนสินค้า [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
-=======
           "info": "หากต้องการแสดงคะแนน ให้เพิ่มแอปการให้คะแนนสินค้า [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-recommendations-section-settings)"
->>>>>>> 054f8bf (タグ実践)
         },
         "header_mobile": {
           "content": "เลย์เอาต์สำหรับมือถือ"
@@ -3701,11 +3387,7 @@
             },
             "text": {
               "label": "ข้อความ",
-<<<<<<< HEAD
-              "default": "<p>จับคู่ข้อความกับรูปภาพเพื่อให้ความสำคัญกับสินค้า คอลเลกชัน หรือบล็อกโพสต์ที่คุณเลือก เพิ่มรายละเอียดเกี่ยวกับความพร้อม สไตล์ หรือแม้กระทั่งเขียนรีวิว</p>"
-=======
               "default": "<p>จับคู่ข้อความกับรูปภาพเพื่อให้ความสำคัญกับสินค้า คอลเลกชัน หรือบล็อกโพสต์ที่คุณเลือก เพิ่มรายละเอียดเกี่ยวกับความพร้อม สไตล์ หรือแม้กระทั่งเขียนรีวิว<\/p>"
->>>>>>> 054f8bf (タグ実践)
             },
             "button_label": {
               "label": "ป้ายกำกับปุ่ม",
