@@ -105,8 +105,6 @@
                     </h2>
                   </a>
                 </div>
-<<<<<<< HEAD
-=======
 
                 {% for tag in product.tags %}
                   {% if tag contains 'NEW' %}
@@ -114,7 +112,6 @@
                   {% endif %}
                 {% endfor %}
 
->>>>>>> 054f8bf (タグ実践)
               {%- when 'price' -%}
                 <div id="price-{{ section.id }}" role="status" {{ block.shopify_attributes }}>
                   {%- render 'price',
