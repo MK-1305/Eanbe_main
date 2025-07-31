@@ -108,7 +108,7 @@
 
                 {% for tag in product.tags %}
                   {% if tag contains 'NEW' %}
-                    <a href="/collections/all-collections/{{ tag }}">#{{ tag }}</a>
+                    <a href="/collections/all-collections/{{ tag }}">#{{ tag | split: '_' | last }}</a>
                   {% endif %}
                 {% endfor %}
 
