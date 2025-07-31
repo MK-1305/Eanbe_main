@@ -95,6 +95,50 @@
         "padding_bottom_sp": 27
       }
     },
+    "custom_news_section_blocks_6tbR3P": {
+      "type": "custom-news-section-blocks",
+      "blocks": {
+        "block_article_K4EjwW": {
+          "type": "block_article",
+          "settings": {
+            "article": "news\/test"
+          }
+        },
+        "block_article_r74PbA": {
+          "type": "block_article",
+          "settings": {
+            "article": "news-blogs\/aloha-daytra-collabo"
+          }
+        },
+        "block_article_FByf3z": {
+          "type": "block_article",
+          "settings": {
+            "article": "news-blogs\/2024-daily-trial-collection"
+          }
+        },
+        "block_article_eTkwfC": {
+          "type": "block_article",
+          "settings": {
+            "article": "news-blogs\/store-open"
+          }
+        }
+      },
+      "block_order": [
+        "block_article_K4EjwW",
+        "block_article_r74PbA",
+        "block_article_FByf3z",
+        "block_article_eTkwfC"
+      ],
+      "name": "Newsセクションブロック",
+      "settings": {
+        "color_scheme": "",
+        "title": "TOP NEWS",
+        "padding_top_pc": 36,
+        "padding_bottom_pc": 44,
+        "padding_top_sp": 33,
+        "padding_bottom_sp": 27
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -257,6 +301,7 @@
     "image_banner",
     "image_with_text_mbnNYx",
     "custom_news_iDQang",
+    "custom_news_section_blocks_6tbR3P",
     "featured_collection",
     "featured_collection_QGiE3f",
     "collection_list_UcyE6q",
